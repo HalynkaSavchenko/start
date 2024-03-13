@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "start",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/HalynkaSavchenko/practice2/",
+    "build": "vite build --base=/HalynkaSavchenko/start/",
     "preview": "vite preview"
   },
   "devDependencies": {
